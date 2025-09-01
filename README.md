@@ -10,7 +10,7 @@ Busco constantemente aprimorar minhas habilidades em **programação, bancos de 
 💡 Atualmente, também estou desenvolvendo projetos em **Python, Java, React e análise de dados aplicada ao mercado**.  
 
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/gabriel-borbaaxz/)  
-[![Gmail Badge](https://img.shields.io/badge/Email-D14836?logo=gmail&style=for-the-badge)](mailto:gabruelborbaaxz@gmail.com)  
+[![Gmail Badge](https://img.shields.io/badge/Email-D14836?logo=gmail&style=for-the-badge)](mailto:gabrielborbaaxz@gmail.com)  
 
 ---
 
