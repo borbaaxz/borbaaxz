@@ -2,8 +2,8 @@
 
 **`Engenharia de Software | Desenvolvedor & Analista de Dados`**  
 
-Me chamo **Gabriel Borba**, tenho 19 anos e sou natural de São Paulo.  
-Atualmente, curso **Engenharia de Software na FIAP** (5º semestre, formação prevista em 2027).  
+Me chamo **Gabriel Borba**, tenho 20 anos e sou natural de São Paulo.  
+Atualmente, curso **Engenharia de Software na FIAP** (7º semestre, formação prevista em 2027).  
 Sou apaixonado por **tecnologia, análise de dados e desenvolvimento de soluções inovadoras**.  
 Busco constantemente aprimorar minhas habilidades em **programação, bancos de dados, segurança da informação e inteligência de negócios**, aplicando-as em projetos acadêmicos e pessoais.  
 
